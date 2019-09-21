@@ -1,3 +1,3 @@
 # Basic_Portfolio
-First Portfolio
+Updated portfolio of my raw coding without frameworks, second edition.
 .
